@@ -21,5 +21,3 @@ The objective of this project is to analyze weather conditions across multiple d
 - Power Query
 - DAX
 - Excel / CSV Dataset
-
-- 
